@@ -5,7 +5,7 @@ This project aims to classify emotions in images using Convolutional Neural Netw
 
 Dataset:
 
-The dataset used for this project is the XYZ Emotion Dataset, which consists of a large collection of labeled images representing different emotions such as happiness, sadness, anger, etc. The dataset is divided into training, validation, and test sets. Please refer to the dataset documentation for more information on its structure and licensing.
+The dataset used for this project is the  Emotion Dataset, which consists of a large collection of labeled images representing different emotions such as happiness, sadness, anger, etc. The dataset is divided into training, validation, and test sets. Please refer to the dataset documentation for more information on its structure and licensing.
 
 Dependencies:
 To run this project, you need the following dependencies:
