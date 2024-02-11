@@ -30,7 +30,6 @@ Prepare the dataset:
 Organize the dataset into the following structure:
 
 # bash
-Copy code
 emotion-classification-cnn/
 ├── dataset/
 │   ├── train/
@@ -48,6 +47,7 @@ emotion-classification-cnn/
 │   │   ├── sad/
 │   │   ├── angry/
 │   │   ├── ...
+
 # Train the CNN model:
 
 Run the following command to train the CNN model on the training dataset:
